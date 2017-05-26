@@ -1,0 +1,79 @@
+body {
+	background-image: url("../images/patternf1.jpg");
+	background-size: 350px 200px;
+	background-repeat: repeat;
+	font-size: 25px;
+}
+
+input[type=checkbox],
+input[type=radio] {
+	size: 5px;
+	margin: 14px, 15px, 15px;
+}
+
+container {
+	height: 2000px;
+	width: 900px;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+.jumbotron {
+	background: #8bc5d2;
+	border: 3px solid white;
+	text-align: center;
+	color: black;
+   	margin: 100px 40px 0 40px;
+
+}
+
+.btn-default{
+	color: red;
+	background-color: black;
+}
+
+
+
+h1 {
+	font-family: 'Audiowide', cursive;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+	
+}
+
+.choiceList {
+	text-align: center;
+	color: black;
+	
+}
+
+#showResults {
+	text-align: center;
+	font-size: 40px;
+	padding: 25px;
+	margin: 25px;
+	font-family: "Audiowide";
+	color: black;
+   	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.gameStart{
+	margin-top: 60px;
+	color: red;
+}
+
+.submitAnswer {
+	margin-top: 60px;
+}
+
+
+#showQuestions {
+	word-spacing: 1px;
+	padding-left: 2px;
+}
+
+.radioButton {
+	margin-left: 
+}
+
+
+
